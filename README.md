@@ -14,11 +14,6 @@ open terminal
 > yarn dev
 ```
 
-## libs and frameworks used
-
-- Next.js
-- React, React Native
-
 ## Plugins
 
 - prettier
