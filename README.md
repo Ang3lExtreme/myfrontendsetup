@@ -22,6 +22,6 @@ open terminal
 ## Plugins
 
 - prettier
-- estlin
+- estlin (airbnb config)
 - styled-component
 - next-images
