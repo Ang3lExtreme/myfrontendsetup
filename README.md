@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 open terminal
 
+```
 > git clone https://github.com/Ang3lExtreme/myfrontendsetup.git
 
 > cd myfrontendsetup
@@ -11,6 +12,7 @@ open terminal
 > yarn
 
 > yarn dev
+```
 
 ## libs and frameworks used
 
